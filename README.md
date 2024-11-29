@@ -1,7 +1,7 @@
 # 𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧𝐢𝐜-𝐒𝐚𝐥𝐞𝐬-𝐃𝐚𝐭𝐚-𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
 
-## *Customer purchasing behavior and demographics in the electronics market*
+## *Customer purchasing behavior and demographics in the electronics market* 📊🛒
 
 
 ### **𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:** 🗒️
