@@ -62,6 +62,7 @@ inform strategic decisions. By analyzing the data, seeking for:
 
 ➢ **𝐃𝐀𝐗**: Data Analysis Expressions for creating calculated fields and measures.
 
+![image](https://github.com/user-attachments/assets/060df379-3a98-4e2b-974c-d4271291d1c4)
 
 
 
