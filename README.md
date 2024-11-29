@@ -65,8 +65,6 @@ inform strategic decisions. By analyzing the data, seeking for:
 ![image](https://github.com/user-attachments/assets/060df379-3a98-4e2b-974c-d4271291d1c4)
 
 
-![image](https://github.com/user-attachments/assets/599dacb7-b075-4041-a994-1d93565a95fd)
-
 
 
 
