@@ -55,7 +55,9 @@ inform strategic decisions. By analyzing the data, seeking for:
 ![image](https://github.com/user-attachments/assets/d51e86a3-3a66-4cb1-a12f-0a51b0f541c1)
 
 ### **𝐓𝐨𝐨𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:**
+
 ➢ **𝐏𝐨𝐰𝐞𝐫 𝐁𝐈**: Data modeling, visualization, and dashboard creation.
+
 ➢ **𝐃𝐀𝐗**: Data Analysis Expressions for creating calculated fields and measures.
 
 
