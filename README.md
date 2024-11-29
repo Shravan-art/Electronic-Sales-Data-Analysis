@@ -21,6 +21,9 @@ inform strategic decisions. By analyzing the data, seeking for:
 #### 𝟓. 𝐈𝐦𝐩𝐫𝐨𝐯𝐞 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐑𝐞𝐭𝐞𝐧𝐭𝐢𝐨𝐧: Analyze customer loyalty and identify strategies to retain valuable customers.
 
 
+![image](https://github.com/user-attachments/assets/d2c940de-4d0c-4e59-948d-ae4826aa9665)
+
+
 ### **𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:** 🗒️
 
 
@@ -42,6 +45,7 @@ inform strategic decisions. By analyzing the data, seeking for:
 #### 𝟏𝟔. 𝐀𝐝𝐝-𝐨𝐧 𝐓𝐨𝐭𝐚𝐥: Total price of add-ons purchased (numeric)
 
 
+![image](https://github.com/user-attachments/assets/d51e86a3-3a66-4cb1-a12f-0a51b0f541c1)
 
 
 
