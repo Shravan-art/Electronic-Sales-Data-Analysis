@@ -46,7 +46,7 @@ inform strategic decisions. By analyzing the data, seeking for:
 
 
 
-### **𝐃𝐚𝐭𝐚 𝐒𝐭𝐚𝐭𝐬:**
+### **𝐃𝐚𝐭𝐚 𝐒𝐭𝐚𝐭𝐬:** 📈
 
 - **𝐓𝐨𝐭𝐚𝐥 𝐑𝐨𝐰𝐬**: 20,000
 - **𝐓𝐢𝐦𝐞 𝐏𝐞𝐫𝐢𝐨𝐝**: September 2023 to September 2024
@@ -54,6 +54,9 @@ inform strategic decisions. By analyzing the data, seeking for:
 
 ![image](https://github.com/user-attachments/assets/d51e86a3-3a66-4cb1-a12f-0a51b0f541c1)
 
+### **𝐓𝐨𝐨𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬:**
+➢ **𝐏𝐨𝐰𝐞𝐫 𝐁𝐈**: Data modeling, visualization, and dashboard creation.
+➢ **𝐃𝐀𝐗**: Data Analysis Expressions for creating calculated fields and measures.
 
 
 
