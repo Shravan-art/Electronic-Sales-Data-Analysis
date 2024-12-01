@@ -5,6 +5,8 @@
 
 ![Screenshot 2024-11-24 020627](https://github.com/user-attachments/assets/3c0414d3-2f39-4344-b97d-dfec2f01b1e4)
 
+![Screenshot 2024-11-24 020653](https://github.com/user-attachments/assets/40098a89-1d42-4fcb-8812-866d0843d1e1)
+
 ### **𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:** 🗒️
 
 This dataset contains sales transaction records for an electronics company over a one-year period, spanning from September 2023 to September 2024. It includes detailed information about customer demographics, product types, and purchase behaviors.
