@@ -3,6 +3,7 @@
 
 ## *Customer purchasing behavior and demographics in the electronics market* 📊🛒
 
+![Screenshot 2024-11-24 020627](https://github.com/user-attachments/assets/3c0414d3-2f39-4344-b97d-dfec2f01b1e4)
 
 ### **𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧:** 🗒️
 
@@ -63,6 +64,7 @@ inform strategic decisions. By analyzing the data, seeking for:
 ➢ **𝐃𝐀𝐗**: Data Analysis Expressions for creating calculated fields and measures.
 
 ![image](https://github.com/user-attachments/assets/060df379-3a98-4e2b-974c-d4271291d1c4)
+
 
 
 
